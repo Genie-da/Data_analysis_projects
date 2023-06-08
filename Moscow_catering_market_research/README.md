@@ -1,8 +1,6 @@
 # Исследование рынка общественного питания Москвы.
 
-### Ссылка на проект с отображением интерактивных графиков в nbnbviewer:
-
-https://nbviewer.org/github/Genie-da/Data_analysis_projects/blob/main/Moscow_catering_market_research/Moscow_catering_market_research.ipynb
+### [Проект с отображением интерактивных графиков в nbviewer](https://nbviewer.org/github/Genie-da/Data_analysis_projects/blob/main/Moscow_catering_market_research/Moscow_catering_market_research.ipynb)
 
 ### Задача:
 

@@ -1,5 +1,7 @@
 # A/A/B-эксперимент для мобильного приложения.
 
+### [Проект с отображением интерактивных графиков в nbviewer](https://nbviewer.org/github/Genie-da/Data_analysis_projects/blob/main/AAB-test_by_redesigning_the_mobile_app/AAB-test_by_redesigning_the_mobile_app.ipynb)
+
 ### Задача:
 
 Используя данные с результатами проведенного A/A/B-теста по редизайну мобильного приложения, необходимо выяснить, есть ли смысл менять шрифты.
