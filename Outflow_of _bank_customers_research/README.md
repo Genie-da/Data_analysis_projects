@@ -77,7 +77,7 @@
 
 ### Стек:
 
-Pandas, numpy, seaborn, matplotlib, pyplot, plotly, scipy, math.
+Pandas, numpy, seaborn, matplotlib, pyplot, plotly, scipy, math, Tableau.
 
 ### Статус проекта:
 
